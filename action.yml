@@ -1,0 +1,5 @@
+name: 'Unreleased changelog action'
+description: 'This action writes the PR title to the next line of the unreleased title'
+runs:
+  using: 'node16'
+  main: 'index.js'
